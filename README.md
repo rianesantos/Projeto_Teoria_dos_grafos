@@ -1,4 +1,4 @@
-FEITO PELA ALUNA RIANE COSTA SANTOS 
+
 
 # Prática 1 — Grafos: Roteamento e Coloração em Redes
 
@@ -8,11 +8,7 @@ de canais Wi-Fi via coloração de grafos (Parte 2).
 
 ## Equipe
 
-> ✏️ **Preencher com os nomes completos e usuários do GitHub de todos os integrantes da equipe.**
-
-- Nome 1 — usuário GitHub
-- Nome 2 — usuário GitHub
-- Nome 3 — usuário GitHub
+RIANE COSTA SANTOS | 202413195
 
 ## Estrutura do repositório
 
