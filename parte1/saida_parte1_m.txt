@@ -1,0 +1,4 @@
+ALGORITMO: Bellman-Ford
+JUSTIFICATIVA: O grafo contem arestas com peso negativo (acordos SLA), o que invalida o uso de Dijkstra. Bellman-Ford suporta pesos negativos e detecta ciclos negativos.
+ROTA: 0 1 2 4 3 6 9
+CUSTO: 6
