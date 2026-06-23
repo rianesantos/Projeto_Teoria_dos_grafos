@@ -1,0 +1,4 @@
+ALGORITMO: Backtracking (busca exata por k crescente)
+JUSTIFICATIVA: Algoritmos gulosos (incluindo DSatur) nao garantem encontrar o numero cromatico otimo, apenas um limite superior. Por isso, buscamos o menor k para o qual existe coloracao valida via backtracking, com poda por ordenacao decrescente de grau.
+NUM_CORES: 3
+COLORACAO: 0=1 1=2 2=3 3=1 4=2 5=1 6=2 7=1
